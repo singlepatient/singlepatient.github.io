@@ -12,12 +12,12 @@ tags:
   - sui
   - tech
 authors:
-  - shirakoslurper
+  - singlepatient
 ---
 
 # Sui Bot
 
-The single most intensive project I've undertaken is [arbisui](https://github.com/shirakoslurper/arbisui), a Sui DEX arbitrage bot.
+The single most intensive project I've undertaken is [arbisui](https://github.com/singlepatient/arbisui), a Sui DEX arbitrage bot.
 
 The codebase is a mess outside of the tooling, and things could be done a lot better. However, I think I did a fair bit of pioneering on the chain, though I didn't take it to the massive profit finish line.
 
@@ -27,4 +27,4 @@ I hadn't really done much in terms of completing projects, and though I had a CS
 
 But, oof, lotsa stuff had to be done. 
 
-The deep dive is in the [repo](https://github.com/shirakoslurper/bitechain).
+The deep dive is in the [repo](https://github.com/singlepatient/bitechain).

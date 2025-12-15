@@ -11,7 +11,7 @@ tags:
   - sourcing
   - food
 authors:
-  - shirakoslurper
+  - singlepatient
 ---
 
 # Notes on Sourcing Japanese Fish in the States as a Home Chef
@@ -33,7 +33,7 @@ A la the big 'uns:
 - Noble Fresh Cart: Limited selected (just 2 uni varieties at the time of writing).
 - True World Seafood's Toyosu Express: Only pricey Madai and smoked Yellowtail at the time of writing.
 - Hokkaido Uni Shop: Pretty wide range of products. Pricey, though. No guarantee on handling once it get's in FedEx's hands. Founder world at True World for a while.
-- Sakasyu: If you are a baller with connections, although some say items like uni cost significantly less than Hokkaido Uni Shop (I think this information may be dated - saw a [mention on FTC](https://www.foodtalkcentral.com/t/home-cooking-2023/15248/178?u=shirakoslurper) that Sakasyu costs too much for a non-resto entity these days). More of an obscure process to order, too.
+- Sakasyu: If you are a baller with connections, although some say items like uni cost significantly less than Hokkaido Uni Shop (I think this information may be dated - saw a [mention on FTC](www.foodtalkcentral.com) that Sakasyu costs too much for a non-resto entity these days). More of an obscure process to order, too.
 
 > There's a bit of SEO jockeying around "Toyosu fish" and there's quite a few more sites I didn't yet go through the trouble of vetting but what can you do. Also, depending on where you are, some pickup only spots may be available.
 

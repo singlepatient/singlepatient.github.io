@@ -12,7 +12,7 @@ tags:
   - food
   - japan
 authors:
-  - shirakoslurper
+  - singlepatient
 ---
 
 # Shiro-Ebi Mizubun 白えび水文

@@ -11,7 +11,7 @@ tags:
   - neet
   - career
 authors:
-  - shirakoslurper
+  - singlepatient
 ---
 
 # the neet's guide towards

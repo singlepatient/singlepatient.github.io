@@ -10,7 +10,7 @@ categories:
 tags:
   - career
 authors:
-  - shirakoslurper
+  - singlepatient
 ---
 
 # Inhertiance and the Burden of Starting Anew

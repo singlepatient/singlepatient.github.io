@@ -11,7 +11,7 @@ tags:
   - sushi
   - food
 authors:
-  - shirakoslurper
+  - singlepatient
 ---
 
 # 3 sushi battlegrounds and intuition

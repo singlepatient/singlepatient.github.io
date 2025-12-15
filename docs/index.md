@@ -9,7 +9,7 @@ CS and art background. Projects and hobbies. Sketches are worth a gander?
 
 ## projects:
 
-### [forklore proof of concept](https://github.com/shirakoslurper/bitechain)
+### [forklore proof of concept](https://github.com/singlepatient/bitechain)
 
 A menu-based semantic search engine for traditional restaurants. For long-tail searches of regional foods with more abstract search terms where language barrier and lack of human labeled information might pose a problem. I called it "bitechain" in the repo, but I think "forklore" is a better name.
 
@@ -17,12 +17,12 @@ A menu-based semantic search engine for traditional restaurants. For long-tail s
 
 [Blog post here!](blog/posts/forklore.md)
 
-### [arbisui: Sui DEX Arbitrage Bot](https://github.com/shirakoslurper/arbisui)
+### [arbisui: Sui DEX Arbitrage Bot](https://github.com/singlepatient/arbisui)
 
 Not a crypto person, I promise. This was a contained problem to solve. No hoodwinking or speculating involved. A fairly basic arbitrage bot for a newer chain. The heavy lifting was in working around the lack of developer support for facilitating arbitrage. Was perhaps one of the first arbitrage bots on chain. I did, however, lack the fundamentals needed to push further and stay competitive. More details in the repo.
 
 
-### [Move Bytecode to Expansion AST Converter](https://github.com/shirakoslurper/move/tree/main/language/move-bytecode-prover)
+### [Move Bytecode to Expansion AST Converter](https://github.com/singlepatient/move/tree/main/language/move-bytecode-prover)
 
 A dive into the stages of Move compilation and prover model building. 
 
@@ -32,9 +32,9 @@ Team project to automate consolidation and rerouting of shipments. Private repo 
 
 ## simple doohickies:
 
-- [OpenTable Experience Reservation Bot](https://github.com/shirakoslurper/tablehog)
+- [OpenTable Experience Reservation Bot](https://github.com/singlepatient/tablehog)
     - Gained some familiarty with reverse engineering APIs and automating payments.
-- [SankoChain New Pair Sniper Bot](https://github.com/shirakoslurper/skyper)
+- [SankoChain New Pair Sniper Bot](https://github.com/singlepatient/skyper)
     - Very basic new-pair sniper bot for a new EVM chain. Was only viable for the first hours of existence. Vulnerable to exploitative bots.
 
 ## skills + familiar tech:

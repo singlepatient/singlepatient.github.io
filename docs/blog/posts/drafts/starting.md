@@ -12,7 +12,7 @@ categories:
 tags:
   - slice of life
 authors:
-  - shirakoslurper
+  - singlepatient
 ---
 
 # Starting the blog

@@ -1,6 +1,6 @@
-site_name: shirakoslurper
+site_name: singlepatient
 site_description: thoughts and pursuits
-site_url: http://shirakoslurper.github.io
+site_url: http://singlepatient.github.io
 
 theme:
   name: material

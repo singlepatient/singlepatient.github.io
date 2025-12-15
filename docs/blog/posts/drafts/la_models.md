@@ -11,7 +11,7 @@ tags:
   - business
   - restaurants
 authors:
-  - shirakoslurper
+  - singlepatient
 ---
 
 # Foos in US sprawl

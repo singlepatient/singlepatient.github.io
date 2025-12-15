@@ -10,7 +10,7 @@ categories:
 tags:
   - food
 authors:
-  - shirakoslurper
+  - singlepatient
 ---
 
 # Food Opinion Networks

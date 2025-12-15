@@ -11,7 +11,7 @@ tags:
   - ceramics
   - japan
 authors:
-  - shirakoslurper
+  - singlepatient
 ---
 
 # Korean-Inspired Ceramics
