@@ -11,7 +11,7 @@ tags:
   - sushi
   - food
 authors:
-  - singpatient
+  - singlepatient
 ---
 
 # Tuesday's Sushi-ish Menu
