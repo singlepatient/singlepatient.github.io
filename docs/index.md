@@ -11,6 +11,8 @@ CS and art background. Projects and hobbies. Sketches are worth a gander?
 
 ### [subless (in progress!)](https://github.com/singlepatient/subless)
 
+![](./assets/misc/subless_fast.gif)
+
 This fork of asbplayer is focused on helping Japanese language learners improve the automaticity of their **audio word recognition** and **surface form breakdown** skills while engaging with subtitled target language content. Hopefully this helps to establish a strong foundation for audio comprehension. I built this to address the "cheating" I would do when watching subtitled content - which has its own benefits of improving your reading skills. Study mode is toggle-able, though, so no worries!
 
 > I'm taking a bit of an audio first or higher audio priority approach here. Audio vocabulary is critical for native level comprehension, so I wanted to aid with more deliberate testing of audio recognition when immersing. Most times people are left to self-assess and self-regulate their recognition and engagement with the content the consume. I realized this bit of automated gamification helps to keep me engaged with the content, and suprisingly the interruptions are a great deal more fun then annoying!
@@ -19,15 +21,11 @@ Basic random transcription testing works at the moment and going from Yomitan's 
 
 > P.S. This uses the kuromoji morphological analyzer in the background, but I may be upgrading it to sudachi for better support for modern and colloquial language. Or perhaps I might add another dictionary...
 
-![](./assets/misc/study-mode-example.png)
-![](./assets/misc/audio-recognition-example.png)
-![](./assets/misc/surface-form-example.png)
-
 ### [forklore proof of concept](https://github.com/singlepatient/bitechain)
 
-A menu-based semantic search engine for traditional restaurants. For long-tail searches of regional foods with more abstract search terms where language barrier and lack of human labeled information might pose a problem. I called it "bitechain" in the repo, but I think "forklore" is a better name.
-
 ![](./assets/misc/forklore.gif)
+
+A menu-based semantic search engine for traditional restaurants. For long-tail searches of regional foods with more abstract search terms where language barrier and lack of human labeled information might pose a problem. I called it "bitechain" in the repo, but I think "forklore" is a better name.
 
 [Blog post here!](blog/posts/forklore.md)
 
