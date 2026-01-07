@@ -17,7 +17,7 @@ This fork of asbplayer is focused on helping Japanese language learners improve 
 
 > I'm taking a bit of an audio first or higher audio priority approach here. Audio vocabulary is critical for native level comprehension, so I wanted to aid with more deliberate testing of audio recognition when immersing. Most times people are left to self-assess and self-regulate their recognition and engagement with the content the consume. I realized this bit of automated gamification helps to keep me engaged with the content, and suprisingly the interruptions are a great deal more fun then annoying!
 
-Basic random transcription testing works at the moment and going from Yomitan's to Kuromoji's tokenizer has much improved the "correctness" of surface form breakdowns. However, smart Anki-informed (via ankiconnect) and word and morpheme recognition success rate based sentence selection and testing are coming!
+Basic Anki-integrated testing works at the moment and going from Yomitan's to Kuromoji's tokenizer has much improved the "correctness" of surface form breakdowns. Sentences and words are selected based on Anki maturity. However, smarter word and morpheme recognition success rate based sentence selection and testing are coming!
 
 > P.S. This uses the kuromoji morphological analyzer in the background, but I may be upgrading it to sudachi for better support for modern and colloquial language. Or perhaps I might add another dictionary...
 
