@@ -12,7 +12,7 @@ authors:
   - singlepatient
 ---
 
-![](/assets/misc/forklore.gifI could see this also you. )
+![](/assets/misc/forklore.gif)
 
 ## Summary
 
